@@ -1,5 +1,3 @@
-#This program implements option 3 of the Knapsack assignment. The program will take the required information and will encrypt with Knapsack.
-#It also will implement the easy version of decryption with the added ability of finding w, the multiplicative inverse. 
 
 def main():
     choice=int(input("Press 1 to encrypt, press 2 to decrypt: "))
